@@ -1,4 +1,4 @@
-<h1 align="center">🙋‍♂️ Howdy! I'm Aumansh Kaushal</h1>
+<h1 align="center">🙋‍♂️ Howdy! I'm Aumansh</h1>
 
 <p align="center">
 Backend Developer
@@ -66,7 +66,7 @@ I build APIs, bots, automation tools, and scalable backend systems using Node.js
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aumanshkaushal&theme=nord&margin-w=15&margin-h=15" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aumanshkaushal&theme=nord&margin-w=15&margin-h=15&rank=-?&row=1" width="90%" />
 </p>
 
 <p align="center">
