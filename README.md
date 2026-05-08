@@ -70,9 +70,9 @@ I build APIs, bots, automation tools, and scalable backend systems using Node.js
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=aumanshkaushal&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=aumanshkaushal&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aumanshkaushal&theme=tokyonight" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=aumanshkaushal&theme=tokyonight&v=2" />
 </p>
 
 <p align="center">
