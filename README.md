@@ -68,13 +68,13 @@ I build APIs, bots, automation tools, and scalable backend systems using Node.js
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aumanshkaushal&theme=nord&margin-w=15&margin-h=15&rank=-?&row=1" width="90%" />
 </p>
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=aumanshkaushal&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  
-  <img width="49%" src="https://streak-stats.demolab.com?user=aumanshkaushal&theme=tokyonight&v=2" />
-</p>
+<img src="https://github-readme-stats.shion.dev/api?username=aumanshkaushal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=495" />
 
+<img src="https://streak-stats.demolab.com?user=aumanshkaushal&theme=tokyonight&hide_border=true&card_width=495&v=2" />
+
+</div>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aumanshkaushal/aumanshkaushal/output/github-snake-dark.svg" />   
